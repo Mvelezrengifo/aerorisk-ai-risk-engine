@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+
+pandas
+numpy
+
+google-cloud-bigquery
+google-auth
+
+httpx
+
+openai

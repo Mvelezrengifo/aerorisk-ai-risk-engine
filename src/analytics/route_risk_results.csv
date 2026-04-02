@@ -1,0 +1,5 @@
+origin,destination,segments,avg_risk,max_risk
+Bogota,Madrid,161,0.56,0.8
+NewYork,London,110,0.52,0.7
+Tokyo,LosAngeles,175,0.6,0.9
+Dubai,Singapore,140,0.48,0.6

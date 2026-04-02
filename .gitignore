@@ -1,0 +1,6 @@
+sa-key.json
+.env
+__pycache__/
+.idea/
+venv/
+*.pyc
